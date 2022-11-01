@@ -21,3 +21,10 @@ function App() {
 }
 
 export default App;
+
+/*******************************************************
+
+RESULTAT SUR NETLIFY:
+  https://dreamy-halva-53ac95.netlify.app/
+
+*******************************************************/
